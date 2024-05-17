@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hangman-console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+016f8f4249f88ee887e498d07785dbf5b2dfbaca")]
 [assembly: System.Reflection.AssemblyProductAttribute("hangman-console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hangman-console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
