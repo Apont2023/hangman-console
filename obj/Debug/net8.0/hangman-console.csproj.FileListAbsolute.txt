@@ -1,0 +1,14 @@
+C:\Users\Home\Documents\GitHub\hangman-console\bin\Debug\net8.0\hangman-console.exe
+C:\Users\Home\Documents\GitHub\hangman-console\bin\Debug\net8.0\hangman-console.deps.json
+C:\Users\Home\Documents\GitHub\hangman-console\bin\Debug\net8.0\hangman-console.runtimeconfig.json
+C:\Users\Home\Documents\GitHub\hangman-console\bin\Debug\net8.0\hangman-console.dll
+C:\Users\Home\Documents\GitHub\hangman-console\bin\Debug\net8.0\hangman-console.pdb
+C:\Users\Home\Documents\GitHub\hangman-console\obj\Debug\net8.0\hangman-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\GitHub\hangman-console\obj\Debug\net8.0\hangman-console.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\GitHub\hangman-console\obj\Debug\net8.0\hangman-console.AssemblyInfo.cs
+C:\Users\Home\Documents\GitHub\hangman-console\obj\Debug\net8.0\hangman-console.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\hangman-console\obj\Debug\net8.0\hangman-console.dll
+C:\Users\Home\Documents\GitHub\hangman-console\obj\Debug\net8.0\refint\hangman-console.dll
+C:\Users\Home\Documents\GitHub\hangman-console\obj\Debug\net8.0\hangman-console.pdb
+C:\Users\Home\Documents\GitHub\hangman-console\obj\Debug\net8.0\hangman-console.genruntimeconfig.cache
+C:\Users\Home\Documents\GitHub\hangman-console\obj\Debug\net8.0\ref\hangman-console.dll
